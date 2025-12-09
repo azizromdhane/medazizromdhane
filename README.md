@@ -1,124 +1,85 @@
-<div align="center">
+# 👋 Salut — je suis Mohamed Aziz Romdhane
 
-<!-- Bannière animée avec effet vague -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,50:FF6B6B,100:FFE66D&height=200&section=header&text=MOHAMED%20AZIZ%20ROMDHANE&fontSize=42&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Cloud%20Enthusiast&descAlignY=55&descAlign=55&fontColor=FFFFFF" />
-
-<!-- Badges principaux animés -->
-<p align="center">
-  <a href="mailto:mohamedazizromdhane509@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Email-mohamedazizromdhane509@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/romdhane-mohamed-aziz-b71523249/">
-    <img src="https://img.shields.io/badge/👔%20LinkedIn-Romdhane_Mohamed_Aziz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="tel:+21699055322">
-    <img src="https://img.shields.io/badge/📞%20Phone-+216%2099%20055%20322-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
-  </a>
-  <a href="https://github.com/azizromdhane">
-    <img src="https://img.shields.io/badge/🐙%20GitHub-azizromdhane-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<!-- Badges de statut avec animation -->
-<p align="center">
-  <img src="https://img.shields.io/badge/🎓%20Student-Engineering%20Polytechnic%20Sousse-8A2BE2?style=flat-square&logo=graduation-cap&logoColor=white" alt="Student" />
-  <img src="https://img.shields.io/badge/🔍%20Status-Available%20for%20Internship-32CD32?style=flat-square&logo=check-circle&logoColor=white" alt="Status" />
-  <img src="https://img.shields.io/badge/🌍%20Location-Tunisia-FF8C00?style=flat-square&logo=location-dot&logoColor=white" alt="Location" />
-</p>
-
-<!-- Typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Welcome+to+my+professional+GitHub+profile!;Passionate+about+Full-Stack+development+and+AI;Open+for+internship+opportunities+2025" alt="Typing SVG" />
-</p>
-
-</div>
+[![Profile views](https://komarev.com/ghpvc/?username=azizromdhane&label=Visites+profil&color=0e75b6)](https://github.com/azizromdhane)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/romdhane-mohamed-aziz-b71523249/)
+[![Email](https://img.shields.io/badge/Email-mohamedazizromdhane509%40gmail.com-yellow?logo=gmail)](mailto:mohamedazizromdhane509@gmail.com)
 
 ---
 
-## 📊 **DASHBOARD GITHUB COMPLET**
+## À propos
+Étudiant en cycle ingénieur en génie logiciel à l’École Polytechnique de Sousse. Passionné par le développement web full-stack, les architectures distribuées, et l’IA. J’aime construire des systèmes propres, conteneurisés et observables.
 
-<div align="center">
-
-### **📈 STATISTIQUES AVANCÉES**
-
-<!-- Grille de stats responsive -->
-<table align="center">
-  <tr>
-    <td align="center" width="400">
-      <img src="https://github-readme-stats.vercel.app/api?username=azizromdhane&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=F0FFF0&border_radius=10" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="400">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizromdhane&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=F0FFF0&border_radius=10&langs_count=8" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=azizromdhane&theme=radical&hide_border=true&background=0D1117&stroke=4ECDC4&ring=FF6B6B&fire=FFE66D&currStreakLabel=FF6B6B&border_radius=10" alt="GitHub Streak" width="800" />
-
-### **🏆 TROPHÉES GITHUB**
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=azizromdhane&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
-
-### **📊 GRAPHIQUE D'ACTIVITÉ**
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=azizromdhane&theme=react-dark&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FFE66D&area=true&hide_border=true&radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### **⏰ TEMPS DE CODAGE**
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=azizromdhane&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&custom_title=Weekly%20Coding%20Stats&border_radius=10" alt="WakaTime" width="500" />
-
-</div>
+*(Résumé extrait de mon CV).* :contentReference[oaicite:1]{index=1}
 
 ---
 
-⚙️ BACKEND & ARCHITECTURE
-<div align="center">
-https://img.shields.io/badge/Spring%2520Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white
-https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
-https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
-https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
-https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white
-https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
+## 🔭 Actuellement
+- Stage / Projets en web full-stack (React, Spring Boot, Node, Docker).
+- Travail sur microservices + dashboards (Grafana / Prometheus) et applications ML (Streamlit).
 
-</div>
-🗄️ BASES DE DONNÉES
-<div align="center">
-https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
-https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white
-https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
-https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white
-https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white
+---
 
-</div>
-☁️ DEVOPS & CLOUD
-<div align="center">
-https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white
-https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white
-https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white
-https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
-https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white
+## 🛠️ Compétences principales
 
-</div>
-🤖 INTELLIGENCE ARTIFICIELLE
-<div align="center">
-https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
-https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
-https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white
-https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white
-https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
-https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white
+**Langages :** Java, Python, JavaScript, TypeScript, SQL, Dart  
+**Frameworks / Outils :** Spring Boot, React, Next.js, Express, Docker, Kubernetes, Git, Jenkins, Grafana, Prometheus  
+**Bases :** MySQL, PostgreSQL, MongoDB
 
-</div>
-📱 MOBILE & AUTRES
-<div align="center">
-https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
-https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white
-https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white
-https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black
+---
 
-</div>
+## 💼 Expériences & formations (sélection)
+- **Stage Développement Web Full-Stack** — GTG Tourism (Juin–Août 2025) — MERN, Docker, CI/CD. :contentReference[oaicite:2]{index=2}  
+- **Stage E-commerce** — Billcom Consulting (Juil–Août 2024) — React.js, Spring Boot. :contentReference[oaicite:3]{index=3}  
+- Cycle Ingénieur — École Polytechnique de Sousse (2023 – présent). :contentReference[oaicite:4]{index=4}
+
+---
+
+## 🚀 Projets phares
+> Voir la page *Projects* de mon profil GitHub pour le code et démos (ou visiter le dashboard public).
+
+- **Pneumonia Detection** — CNN + Streamlit — détection à partir de radiographies. :contentReference[oaicite:5]{index=5}  
+- **Application Web MERN + BI** — plateforme RH avec tableau de bord (Chart.js, Power BI). :contentReference[oaicite:6]{index=6}  
+- **Architecture Microservices** — Spring Boot, Docker, Grafana/Prometheus. :contentReference[oaicite:7]{index=7}
+
+---
+
+## 📊 Statistiques GitHub (générées dynamiquement)
+
+> Les images ci-dessous proviennent de services publics que j’ai intégrés — elles s’actualisent automatiquement.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizromdhane&layout=compact&theme=default)](https://github.com/azizromdhane)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=azizromdhane&show_icons=true&count_private=true&theme=default)](https://github.com/azizromdhane)
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=azizromdhane&theme=default)](https://github.com/azizromdhane)
+
+---
+
+## 🔗 Liens rapides
+- Portfolio / dashboard : `https://azizromdhane.github.io/` *(après déploiement)*  
+- CV (PDF) : [Télécharger mon CV](./CV_MOHAMED_AZIZ_ROMDHANE.pdf)  :contentReference[oaicite:8]{index=8}  
+- LinkedIn : https://www.linkedin.com/in/romdhane-mohamed-aziz-b71523249/
+
+---
+
+## 📫 Contact
+- Email : mohamedazizromdhane509@gmail.com  
+- Téléphone : +216 99 055 322
+
+---
+
+## ✨ Souhaitez-vous voir une démo interactive ?
+J’ai aussi ajouté un **mini-dashboard** (GitHub Pages) qui utilise l’API GitHub pour lister tes repos, visualiser les langages et afficher un heatmap d’activité. Voir `docs/` ou la racine `index.html` du repo.
+
+---
+
+## ⚙️ Conseils rapides pour rendre le profil pro
+1. Mettre en **Pinned Repositories** : tes meilleurs projets (ex. `My-Website`, `TP1_Micro`, `Pneumonia Detection`).  
+2. Ajouter captures d’écran / GIFs pour 2–3 projets majeurs.  
+3. Publier le dashboard en GitHub Pages (fichiers fournis plus bas).  
+4. Maintenir le README mis à jour (projets récents, certificats).  
+
+---
+
+Merci ! Si tu veux, je peux :  
+- personnaliser le texte en français/anglais,  
+- générer les images (GIF/screenshots) à intégrer,  
+- ou créer directement les fichiers `index.html` / GitHub Action dans ton repo (donne l’autorisation via GitHub si tu veux que je pousse automatiquement).
